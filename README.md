@@ -72,9 +72,6 @@ An AI household manager concept combining FastAPI, LangGraph workflow planning, 
 ## Contact
 
 - GitHub: [@icheftech](https://github.com/icheftech)
-- LinkedIn: Add your LinkedIn profile before final submission
+- LinkedIn: https://www.linkedin.com/in/lbrown87/
 - Email: w4354857@student.hccs.edu
 
-## Submission Notes
-
-Before submitting, open the GitHub links in a private or incognito browser window to confirm repository access. The assignment requires public repositories or instructor collaborator access.
