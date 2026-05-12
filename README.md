@@ -5,7 +5,7 @@ Applied AI and Robotics portfolio for Houston Community College, focused on prod
 ## Portfolio Links
 
 - GitHub profile: [github.com/icheftech](https://github.com/icheftech)
-- Main portfolio repository: [AI-Portfolio-Leroy-Brown](https://github.com/icheftech/AI-Portfolio-Leroy-Brown)
+- Main portfolio repository: [Leroy-Brown-HCC-AI-Portfolio](https://github.com/icheftech/Leroy-Brown-HCC-AI-Portfolio)
 - Editable presentation: [Presentation/Pf_LeroyBrown_ITAI2373.pptx](Presentation/Pf_LeroyBrown_ITAI2373.pptx)
 - PDF presentation: [Presentation/Pf_LeroyBrown_ITAI2373.pdf](Presentation/Pf_LeroyBrown_ITAI2373.pdf)
 

@@ -4,7 +4,7 @@ Use this checklist immediately before uploading the assignment.
 
 ## GitHub
 
-- [ ] Main repository name is professional: `AI-Portfolio-Leroy-Brown`.
+- [ ] Main repository name is professional: `Leroy-Brown-HCC-AI-Portfolio`.
 - [ ] Main repository is public.
 - [ ] Main repository opens in an incognito/private browser.
 - [ ] Featured project repository links open in an incognito/private browser.
